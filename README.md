@@ -39,13 +39,13 @@ Note: Demo conducted using the option_1.py file. The option being simulated had 
 
 ### Graph of simulation 4 (500 scenarios)
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/112993711/189773808-791c04d5-2cc6-4187-9b1c-966101aaba21.png)
 
 ![image](https://user-images.githubusercontent.com/112993711/189773291-80e62a6d-863e-4750-bdbf-bb94a3a807ad.png)
 
 ### Output of function showing increased accuracy (more proximity to Black-Scholes benchmark) with increased number of scenarios
 
-![image](https://user-images.githubusercontent.com/112993711/189773417-b03fecf5-5eab-4316-931c-2931c3761a8d.png)
+![Uploading image.png…]()
 
 # Contact
 
