@@ -41,8 +41,6 @@ Note: Demo conducted using the option_1.py file. The option being simulated had 
 
 ![image](https://user-images.githubusercontent.com/112993711/189773988-2c0813a4-7105-44ee-b7b3-48ae9fd03505.png)
 
-![image](https://user-images.githubusercontent.com/112993711/189773291-80e62a6d-863e-4750-bdbf-bb94a3a807ad.png)
-
 ### Output of function showing increased accuracy (more proximity to Black-Scholes benchmark) with increased number of scenarios
 
 ![image](https://user-images.githubusercontent.com/112993711/189773808-791c04d5-2cc6-4187-9b1c-966101aaba21.png)
