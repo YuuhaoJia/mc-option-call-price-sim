@@ -35,9 +35,11 @@ Note: Demo conducted using the option_1.py file. The option being simulated had 
 
 ### Graph of simulation 3 (100 scenarios)
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/112993711/189773742-50eaa6c1-15da-4d31-8080-8887be68ecf5.png)
 
 ### Graph of simulation 4 (500 scenarios)
+
+![Uploading image.png…]()
 
 ![image](https://user-images.githubusercontent.com/112993711/189773291-80e62a6d-863e-4750-bdbf-bb94a3a807ad.png)
 
