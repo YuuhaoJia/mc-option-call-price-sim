@@ -15,7 +15,7 @@ Time to maturity: 1 year
 
 def option_1_10s():
     config = Config(10,1)
-    Option_1 = Option_Trade(100, 100, 0.03, 0.20, 1)
+    Option_1 = Option_Trade(100, 100, 0.05, 0.20, 1)
     model = gbm_model(config)
     pricer = pay_off_pricer()
     simulator = MonteCarloSim(config, model)
@@ -33,7 +33,7 @@ option_1_10s()
 
 def option_1_50s():
     config = Config(50,1)
-    Option_1 = Option_Trade(100, 100, 0.03, 0.20, 1)
+    Option_1 = Option_Trade(100, 100, 0.05, 0.20, 1)
     model = gbm_model(config)
     pricer = pay_off_pricer()
     simulator = MonteCarloSim(config, model)
@@ -51,7 +51,7 @@ option_1_50s()
 
 def option_1_100s():
     config = Config(100,1)
-    Option_1 = Option_Trade(100, 100, 0.03, 0.20, 1)
+    Option_1 = Option_Trade(100, 100, 0.05, 0.20, 1)
     model = gbm_model(config)
     pricer = pay_off_pricer()
     simulator = MonteCarloSim(config, model)
@@ -69,7 +69,7 @@ option_1_100s()
 
 def option_1_500s():
     config = Config(500, 1)
-    Option_1 = Option_Trade(100, 100, 0.03, 0.20, 1)
+    Option_1 = Option_Trade(100, 100, 0.05, 0.20, 1)
     model = gbm_model(config)
     pricer = pay_off_pricer()
     simulator = MonteCarloSim(config, model)
