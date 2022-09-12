@@ -21,21 +21,21 @@ Note: Demo conducted using the option_1.py file. The option being simulated had 
 
 * Stock spot price: 100
 * Strike price : 100
-* Risk free rate: 3%
+* Risk free rate: 5%
 * Volatility: 10%
 * Time to maturity: 1 year
 
 ### Graph of simulation 1 (10 scenarios)
 
-![image](https://user-images.githubusercontent.com/112993711/189773007-b3c84452-878a-4f2b-a875-f81a68094607.png)
+![image](https://user-images.githubusercontent.com/112993711/189773560-fb41f8a9-84ec-40a4-a01e-326060d64996.png)
 
 ### Graph of simulation 2 (50 scenarios)
 
-![image](https://user-images.githubusercontent.com/112993711/189773239-5d58be19-c218-44bc-9a18-435075187c05.png)
+![image](https://user-images.githubusercontent.com/112993711/189773648-30eeb413-b3a3-4731-b645-f96affbe2419.png)
 
 ### Graph of simulation 3 (100 scenarios)
 
-![image](https://user-images.githubusercontent.com/112993711/189773106-b73333ed-d746-449c-87ee-3166c86f7b12.png)
+![Uploading image.png…]()
 
 ### Graph of simulation 4 (500 scenarios)
 
