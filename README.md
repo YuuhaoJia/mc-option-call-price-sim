@@ -15,17 +15,40 @@ Estimates spot price of European call options using Monte Carlo simulation. Incl
   * Uncertainty
   * Drift
  
-### Demo
+# Demo
 
 Note: Demo conducted using the option_1.py file. The option being simulated had the following characteristics:
 
-Stock spot price: 100
-Strike price : 100
-Risk free rate: 3%
-Volatility: 10%
-Time to maturity: 1 year
+* Stock spot price: 100
+* Strike price : 100
+* Risk free rate: 3%
+* Volatility: 10%
+* Time to maturity: 1 year
 
+### Graph of simulation 1 (10 scenarios)
 
+![image](https://user-images.githubusercontent.com/112993711/189773007-b3c84452-878a-4f2b-a875-f81a68094607.png)
 
+### Graph of simulation 2 (50 scenarios)
 
+![image](https://user-images.githubusercontent.com/112993711/189773239-5d58be19-c218-44bc-9a18-435075187c05.png)
 
+### Graph of simulation 3 (100 scenarios)
+
+![image](https://user-images.githubusercontent.com/112993711/189773106-b73333ed-d746-449c-87ee-3166c86f7b12.png)
+
+### Graph of simulation 4 (500 scenarios)
+
+![image](https://user-images.githubusercontent.com/112993711/189773291-80e62a6d-863e-4750-bdbf-bb94a3a807ad.png)
+
+### Output of function showing increased accuracy (more proximity to Black-Scholes benchmark) with increased number of scenarios
+
+![image](https://user-images.githubusercontent.com/112993711/189773417-b03fecf5-5eab-4316-931c-2931c3761a8d.png)
+
+# Contact
+
+Yuhao Jia - yuhaoj10@gmail.com
+
+Double Degree BMath & BBA 2025 Candidate
+
+University of Waterloo 
