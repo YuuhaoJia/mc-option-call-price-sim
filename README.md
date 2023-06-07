@@ -49,6 +49,6 @@ Note: Demo conducted using the option_1.py file. The option being simulated had 
 
 Yuhao Jia - yuhaoj10@gmail.com
 
-Double Degree BMath & BBA 2025 Candidate
+Bachelor of Computer Science (BCS) 2025 Candidate
 
 University of Waterloo 
